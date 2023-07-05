@@ -1,6 +1,6 @@
 # Landing Page: Odin Project
 
-This is a landing page created as part of [the odin project curriculum](https://www.theodinproject.com/lessons/foundations-landing-page). It features a various sections including a header, hero section, information section, quote section, call to action section, and footer.
+This is a landing page created as part of [the odin project curriculum](https://www.theodinproject.com/lessons/foundations-landing-page). It features various sections including a header, hero section, information section, quote section, call to action section, and footer.
 
 ![final result](result.png)
 
@@ -14,7 +14,7 @@ This is a landing page created as part of [the odin project curriculum](https://
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/landing-page.git
+   git clone https://github.com/your-username/landing-page-odin.git
    ```
 
 2. Open the `index.html` file in your web browser.
